@@ -18,3 +18,5 @@ A personal portfolio website showcases a developer’s skills, projects, and con
 Navigation is typically placed in a sticky header or sidebar. Responsive design ensures it looks good on all devices. This task is great for improving layout skills (Flexbox, Grid), using media queries, and applying creative styling.
 
 output
+
+![Image](https://github.com/user-attachments/assets/46176e81-986f-4222-ac86-fadf6ffeaefe)
